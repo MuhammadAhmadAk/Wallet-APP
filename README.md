@@ -1,16 +1,6 @@
-# banking_ui
+# Wallet App
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-01-23 at 10 22 39 PM](https://user-images.githubusercontent.com/93067257/214232859-501aeceb-fd7e-4101-88bc-7da37383b673.jpeg)
+![WhatsApp Image 2023-01-23 at 10 22 40 PM](https://user-images.githubusercontent.com/93067257/214232889-480bf366-cc62-4df2-a77d-481046bba027.jpeg)
